@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Machine learning enthusiast with a strong interest in AI, data analysis, and software development. 
-
-Currently developing practical projects involving data processing, model building, and problem-solving in Python-based environments. Interested in how machine learning can be applied to real-world datasets and complex systems.
+I'm a Machine learning enthusiast with a strong interest in AI, data analysis, and software development. 
+Currently developing practical projects involving data processing, model building, and problem-solving in Python-based environments. 
+Interested in how machine learning can be applied to real-world datasets and complex systems.
 
 Focused on improving skills in:
 - Machine learning fundamentals
